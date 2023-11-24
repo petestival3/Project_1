@@ -1,7 +1,10 @@
 package com.sist.dao;
 
-public class MainClass {
+public class MainClass4 {
+
 	public static void main(String[] args) {
-		System.out.println("두번째 파일");
+		// TODO Auto-generated method stub
+
 	}
+
 }
